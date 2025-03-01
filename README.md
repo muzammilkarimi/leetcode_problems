@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
