@@ -11,12 +11,7 @@ public:
                 ans.push_back(nums1[i++]);
             }
             else {
-                vector<int> temp;
-                temp.push_back(nums1[i][0]);
-                temp.push_back(nums1[i][1]+nums2[j][1]);
-                ans.push_back(temp);
-                i++;
-                j++;
+                ans.push_back({nums1[i][0],nums1[i++][1]+nums2[j++][1]});
             }
         }
         while(i<n) ans.push_back(nums1[i++]);
