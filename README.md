@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
