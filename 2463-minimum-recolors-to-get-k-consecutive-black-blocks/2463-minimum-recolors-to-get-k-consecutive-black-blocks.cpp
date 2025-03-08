@@ -8,7 +8,7 @@ public:
                 right++;
             }
             else{
-                cout<<count<<" ";
+                // cout<<count<<" ";
                 ans=min(ans,count);
                 if(blocks[left]=='W') count--;
                 left++;
