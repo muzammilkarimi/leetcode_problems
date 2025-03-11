@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
