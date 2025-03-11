@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -27,6 +28,7 @@ This repository contains my solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -76,4 +78,8 @@ This repository contains my solutions to LeetCode problems.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
