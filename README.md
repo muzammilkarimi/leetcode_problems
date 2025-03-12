@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -21,6 +22,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -69,6 +71,7 @@ This repository contains my solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
