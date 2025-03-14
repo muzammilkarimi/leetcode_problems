@@ -5,7 +5,7 @@ public:
         for(int i=0;i<candies.size(); i++){
             div+=candies[i]/mid;
         }
-        cout<<div;
+        // cout<<div;
         if(div>=k) return true;
         else return false;
     }
@@ -16,7 +16,7 @@ public:
         while(l<=r){
             mid=l+(r-l)/2;
             if(check(candies,mid,k)){
-                cout<<"true";
+                // cout<<"true";
                 ans=mid;
                 l=mid+1;
             }
