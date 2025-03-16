@@ -5,12 +5,13 @@ public:
         for(int r: ranks){
             long long t=mid/r;
             count += floor(sqrt(t));
+            if(count>=cars) return true;
         }
         return count>=cars;
     }
     long long repairCars(vector<int>& ranks, int cars) {
         long long l = 1;
-        long long temp = *max_element(ranks.begin(),ranks.end());
+        long long temp = *min_element(ranks.begin(),ranks.end());
         long long r = temp*cars*cars;
         long mid,ans;
         while(l<=r){
