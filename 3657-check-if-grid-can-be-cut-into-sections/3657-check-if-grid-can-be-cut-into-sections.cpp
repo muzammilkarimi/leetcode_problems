@@ -1,36 +1,28 @@
 class Solution {
 public:
-    bool checkValidCuts(int n, vector<vector<int>>& rectangles) {
-        map<int, int> vert, hor;
-        for(auto &x: rectangles) {
-            vert[x[1]+1] += 1;
-            vert[x[3]] -= 1;
-        }
-        int curr = 0;
-        int ans = 0;
-        for(auto &x: vert) {
-            curr += x.second;
-            if(curr == 0)
-                ans++;
-        }
-        --ans;
-        if(ans>=2)
-            return true;
+    bool checkCuts(vector<vector<int>>& rectangles, bool isVertical) {
+        map<int, int> cuts;
         
-        ans = 0;
-        curr = 0;
-        for(auto &x: rectangles) {
-            hor[x[0]+1] += 1;
-            hor[x[2]] -= 1;
+        for (auto &x : rectangles) {
+            if (isVertical) {
+                cuts[x[1] + 1]++;
+                cuts[x[3]]--;
+            } else {
+                cuts[x[0] + 1]++;
+                cuts[x[2]]--;
+            }
         }
-        for(auto &x: hor) {
+
+        int curr = 0, ans = 0;
+        for (auto &x : cuts) {
             curr += x.second;
-            if(curr == 0)
+            if (curr == 0)
                 ans++;
         }
-        --ans;
-        if(ans>=2)
-            return true;
-        return false;
+        return --ans >= 2;
+    }
+
+    bool checkValidCuts(int n, vector<vector<int>>& rectangles) {
+        return checkCuts(rectangles, true) || checkCuts(rectangles, false);
     }
 };
