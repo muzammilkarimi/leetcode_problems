@@ -1,8 +1,11 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     bool checkCuts(vector<vector<int>>& rectangles, bool isVertical) {
-        map<int, int> cuts;
-        
+        unordered_map<int, int> cuts; // Using unordered_map for O(1) insert/delete
+
         for (auto &x : rectangles) {
             if (isVertical) {
                 cuts[x[1] + 1]++;
@@ -13,8 +16,11 @@ public:
             }
         }
 
+        vector<pair<int, int>> sortedCuts(cuts.begin(), cuts.end());
+        sort(sortedCuts.begin(), sortedCuts.end()); // O(N log N) sorting
+
         int curr = 0, ans = 0;
-        for (auto &x : cuts) {
+        for (auto &x : sortedCuts) {
             curr += x.second;
             if (curr == 0)
                 ans++;
