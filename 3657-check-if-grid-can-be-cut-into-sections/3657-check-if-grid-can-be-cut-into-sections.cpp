@@ -23,8 +23,6 @@ public:
             hor[x[0]+1] += 1;
             hor[x[2]] -= 1;
         }
-        for(auto x: hor)
-            cout<<x.first<<" "<<x.second<<"\n";
         for(auto &x: hor) {
             curr += x.second;
             if(curr == 0)
