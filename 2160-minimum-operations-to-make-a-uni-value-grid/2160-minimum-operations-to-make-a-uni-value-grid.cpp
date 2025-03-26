@@ -9,8 +9,8 @@ public:
                 onedim.push_back(grid[i][j]);
             }
         }
-        sort(onedim.begin(),onedim.end());
         int l=onedim.size();
+        nth_element(onedim.begin(),onedim.begin()+l/2,onedim.end());
         int mid=onedim[l/2];
         cout<<mid;
         int ans=0;
