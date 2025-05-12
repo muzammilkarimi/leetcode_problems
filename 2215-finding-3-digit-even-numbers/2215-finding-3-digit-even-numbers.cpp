@@ -15,7 +15,9 @@ public:
             count[i]++;
         }
         vector<int> ans;
-        for(int i=100; i<1000; i+=2){
+        int mini=*min_element(digits.begin(),digits.end());
+        mini=mini==0?mini=1:mini;
+        for(int i=mini*100; i<1000; i+=2){
             if(check(count,i)) ans.push_back(i);
         }
         return ans; 
