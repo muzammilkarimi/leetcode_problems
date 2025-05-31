@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems.
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1293-three-consecutive-odds) |
@@ -191,6 +192,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -283,6 +285,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
