@@ -289,6 +289,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [2793-count-the-number-of-complete-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -402,4 +403,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
