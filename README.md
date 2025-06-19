@@ -171,6 +171,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
@@ -194,6 +195,7 @@ This repository contains my solutions to LeetCode problems.
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
