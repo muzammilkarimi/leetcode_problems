@@ -311,6 +311,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [2793-count-the-number-of-complete-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -361,6 +362,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
@@ -440,4 +442,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
