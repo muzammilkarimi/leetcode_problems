@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -407,6 +408,7 @@ This repository contains my solutions to LeetCode problems.
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -433,6 +435,7 @@ This repository contains my solutions to LeetCode problems.
 | [3201-distribute-candies-among-children-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
 |  |
 | ------- |
