@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems.
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ This repository contains my solutions to LeetCode problems.
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -409,6 +411,7 @@ This repository contains my solutions to LeetCode problems.
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Stack
 |  |
 | ------- |
