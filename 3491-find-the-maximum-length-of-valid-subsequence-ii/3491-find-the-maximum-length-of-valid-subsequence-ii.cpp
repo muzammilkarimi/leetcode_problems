@@ -7,7 +7,7 @@ public:
         int maxLength = 2;
 
         for (int targetMod = 0; targetMod < k; ++targetMod) {
-            std::vector<int> remainderDP(k, 0);
+            vector<int> remainderDP(k, 0);
 
             for (int num : nums) {
                 int numMod = num % k;
@@ -16,7 +16,7 @@ public:
             }
 
             for (int length : remainderDP) {
-                maxLength = std::max(maxLength, length);
+                maxLength = max(maxLength, length);
             }
         }
 
