@@ -95,6 +95,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -500,5 +501,6 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
