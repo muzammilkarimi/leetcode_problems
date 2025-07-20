@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 | [1656-count-good-triplets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -200,6 +202,7 @@ This repository contains my solutions to LeetCode problems.
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -494,6 +497,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Tree
 |  |
 | ------- |
@@ -513,4 +517,8 @@ This repository contains my solutions to LeetCode problems.
 | [0237-delete-node-in-a-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
