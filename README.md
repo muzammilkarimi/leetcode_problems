@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems.
 | [2626-count-the-number-of-good-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -127,6 +128,7 @@ This repository contains my solutions to LeetCode problems.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
@@ -404,6 +406,7 @@ This repository contains my solutions to LeetCode problems.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -446,6 +449,7 @@ This repository contains my solutions to LeetCode problems.
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
