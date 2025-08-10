@@ -179,6 +179,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -347,6 +348,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -512,6 +514,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
