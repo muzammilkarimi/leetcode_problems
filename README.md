@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -221,6 +222,7 @@ This repository contains my solutions to LeetCode problems.
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -366,6 +368,7 @@ This repository contains my solutions to LeetCode problems.
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2529-range-product-queries-of-powers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
