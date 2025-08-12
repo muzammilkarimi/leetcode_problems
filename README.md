@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
@@ -235,6 +237,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
@@ -431,6 +434,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
