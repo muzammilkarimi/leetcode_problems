@@ -187,6 +187,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
