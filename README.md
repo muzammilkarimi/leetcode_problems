@@ -195,6 +195,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -605,6 +606,7 @@ This repository contains my solutions to LeetCode problems.
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
@@ -615,4 +617,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
