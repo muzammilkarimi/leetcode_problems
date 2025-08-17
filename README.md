@@ -343,6 +343,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
@@ -596,6 +597,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -603,11 +605,13 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -631,4 +635,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
