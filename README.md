@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems.
 | [0056-merge-intervals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -249,6 +250,7 @@ This repository contains my solutions to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
@@ -309,6 +311,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -427,6 +430,7 @@ This repository contains my solutions to LeetCode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -532,6 +536,7 @@ This repository contains my solutions to LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
