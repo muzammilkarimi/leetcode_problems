@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems.
 | [0940-fruit-into-baskets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -359,6 +360,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
