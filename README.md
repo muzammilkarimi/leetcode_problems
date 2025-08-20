@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -450,6 +451,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
