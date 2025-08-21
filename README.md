@@ -176,6 +176,7 @@ This repository contains my solutions to LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0867-new-21-game) |
@@ -263,6 +264,7 @@ This repository contains my solutions to LeetCode problems.
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
@@ -299,6 +301,7 @@ This repository contains my solutions to LeetCode problems.
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
