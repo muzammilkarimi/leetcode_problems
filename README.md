@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems.
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1813-maximum-erasure-value) |
@@ -177,6 +178,7 @@ This repository contains my solutions to LeetCode problems.
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
+| [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -315,6 +317,7 @@ This repository contains my solutions to LeetCode problems.
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
+| [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -502,6 +505,7 @@ This repository contains my solutions to LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
@@ -534,6 +538,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
