@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
@@ -293,6 +294,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
@@ -476,6 +478,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
