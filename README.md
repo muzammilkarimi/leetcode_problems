@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
@@ -295,6 +296,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
@@ -534,6 +536,7 @@ This repository contains my solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
