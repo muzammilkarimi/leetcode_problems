@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems.
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -271,6 +272,7 @@ This repository contains my solutions to LeetCode problems.
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
