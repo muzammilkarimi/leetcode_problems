@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems.
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0679-24-game) |
@@ -331,6 +332,7 @@ This repository contains my solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -344,6 +346,7 @@ This repository contains my solutions to LeetCode problems.
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
