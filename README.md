@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems.
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -169,6 +170,7 @@ This repository contains my solutions to LeetCode problems.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -206,6 +208,7 @@ This repository contains my solutions to LeetCode problems.
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -332,6 +335,7 @@ This repository contains my solutions to LeetCode problems.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
@@ -417,6 +421,7 @@ This repository contains my solutions to LeetCode problems.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
@@ -430,6 +435,7 @@ This repository contains my solutions to LeetCode problems.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
@@ -531,6 +537,7 @@ This repository contains my solutions to LeetCode problems.
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
