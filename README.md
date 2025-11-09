@@ -244,6 +244,7 @@ This repository contains my solutions to LeetCode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2288-count-operations-to-obtain-zero](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -350,6 +351,7 @@ This repository contains my solutions to LeetCode problems.
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
