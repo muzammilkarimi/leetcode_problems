@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
