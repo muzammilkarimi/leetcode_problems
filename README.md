@@ -336,6 +336,7 @@ This repository contains my solutions to LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
@@ -539,6 +540,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -565,6 +567,7 @@ This repository contains my solutions to LeetCode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -747,4 +750,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0867-new-21-game) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
