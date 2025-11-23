@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -227,6 +228,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
@@ -369,6 +371,7 @@ This repository contains my solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
