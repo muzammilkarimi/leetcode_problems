@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems.
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -471,6 +472,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
