@@ -228,6 +228,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
@@ -664,6 +665,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
@@ -726,6 +728,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
