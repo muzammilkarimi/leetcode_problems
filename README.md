@@ -341,6 +341,7 @@ This repository contains my solutions to LeetCode problems.
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
@@ -595,6 +596,7 @@ This repository contains my solutions to LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -670,6 +672,7 @@ This repository contains my solutions to LeetCode problems.
 | [0021-merge-two-sorted-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2050-count-good-numbers) |
@@ -737,6 +740,7 @@ This repository contains my solutions to LeetCode problems.
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
