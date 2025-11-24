@@ -664,6 +664,7 @@ This repository contains my solutions to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0342-power-of-four) |
@@ -724,6 +725,7 @@ This repository contains my solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
