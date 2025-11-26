@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
@@ -655,6 +656,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0494-target-sum) |
