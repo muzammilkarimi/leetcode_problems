@@ -502,6 +502,7 @@ This repository contains my solutions to LeetCode problems.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -616,6 +617,7 @@ This repository contains my solutions to LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -799,6 +801,7 @@ This repository contains my solutions to LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
