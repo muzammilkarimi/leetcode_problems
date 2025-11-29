@@ -159,6 +159,7 @@ This repository contains my solutions to LeetCode problems.
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -771,6 +772,7 @@ This repository contains my solutions to LeetCode problems.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
@@ -806,10 +808,15 @@ This repository contains my solutions to LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
