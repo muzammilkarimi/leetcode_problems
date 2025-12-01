@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -462,6 +463,7 @@ This repository contains my solutions to LeetCode problems.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -587,6 +589,7 @@ This repository contains my solutions to LeetCode problems.
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -644,6 +647,7 @@ This repository contains my solutions to LeetCode problems.
 | [1448-maximum-69-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
