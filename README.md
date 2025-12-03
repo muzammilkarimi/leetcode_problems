@@ -138,6 +138,7 @@ This repository contains my solutions to LeetCode problems.
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
@@ -203,6 +204,7 @@ This repository contains my solutions to LeetCode problems.
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -285,6 +287,7 @@ This repository contains my solutions to LeetCode problems.
 | [3336-water-bottles-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Prefix Sum
@@ -828,4 +831,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
