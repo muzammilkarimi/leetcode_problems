@@ -131,6 +131,7 @@ This repository contains my solutions to LeetCode problems.
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3483-alternating-groups-ii) |
@@ -287,6 +288,7 @@ This repository contains my solutions to LeetCode problems.
 | [3243-count-the-number-of-powerful-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-find-the-count-of-good-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -310,6 +312,7 @@ This repository contains my solutions to LeetCode problems.
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
