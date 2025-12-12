@@ -222,6 +222,7 @@ This repository contains my solutions to LeetCode problems.
 | [0118-pascals-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
@@ -559,6 +560,7 @@ This repository contains my solutions to LeetCode problems.
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -779,6 +781,7 @@ This repository contains my solutions to LeetCode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
@@ -792,6 +795,7 @@ This repository contains my solutions to LeetCode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
