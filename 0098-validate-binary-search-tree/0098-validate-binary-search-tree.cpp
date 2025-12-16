@@ -26,9 +26,7 @@ public:
             arr.push_back(root->val);
             root = root->right;
         }
-        for(int i = 1; i<arr.size(); i++){
-            if(arr[i-1]>=arr[i]) return false;
-        }
+        for(int i = 1; i<arr.size(); i++) if(arr[i-1]>=arr[i]) return false;
         return true;
 
         
