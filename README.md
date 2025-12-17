@@ -546,6 +546,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -557,6 +558,7 @@ This repository contains my solutions to LeetCode problems.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -573,6 +575,7 @@ This repository contains my solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -588,6 +591,7 @@ This repository contains my solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0994-rotting-oranges) |
