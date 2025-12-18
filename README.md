@@ -147,6 +147,7 @@ This repository contains my solutions to LeetCode problems.
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -324,6 +325,7 @@ This repository contains my solutions to LeetCode problems.
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
@@ -460,6 +462,7 @@ This repository contains my solutions to LeetCode problems.
 | [3483-alternating-groups-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
