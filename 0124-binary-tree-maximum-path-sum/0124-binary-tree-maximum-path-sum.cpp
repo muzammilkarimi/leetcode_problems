@@ -12,15 +12,16 @@
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {
-        int ans =INT_MIN;
-        solve(root, ans);
+        int ans = INT_MIN;
+        solve(root,ans);
         return ans;
     }
-    int solve(TreeNode* root, int &ans){
+    int solve(TreeNode* root,int&ans){
         if(!root) return 0;
-        int left = max(0,solve(root->left, ans));
-        int right = max(0,solve(root->right, ans));
-        ans = max(ans,left+right+root->val);
+        int left = max(0,solve(root->left,ans));
+        int right = max(0,solve(root->right,ans));
+        ans = max(ans, left+right+root->val);
         return root->val + max(left,right);
     }
+
 };
