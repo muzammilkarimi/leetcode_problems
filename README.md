@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems.
 | [0759-set-intersection-size-at-least-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0940-fruit-into-baskets) |
@@ -180,6 +181,7 @@ This repository contains my solutions to LeetCode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0940-fruit-into-baskets) |
@@ -272,6 +274,7 @@ This repository contains my solutions to LeetCode problems.
 | [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
 | [0679-24-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -425,6 +428,7 @@ This repository contains my solutions to LeetCode problems.
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0994-rotting-oranges) |
