@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
@@ -265,6 +266,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
