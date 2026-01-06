@@ -596,6 +596,7 @@ This repository contains my solutions to LeetCode problems.
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -613,6 +614,7 @@ This repository contains my solutions to LeetCode problems.
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -824,6 +826,7 @@ This repository contains my solutions to LeetCode problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -843,6 +846,7 @@ This repository contains my solutions to LeetCode problems.
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
