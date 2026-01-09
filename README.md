@@ -555,6 +555,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -563,6 +564,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -596,6 +598,7 @@ This repository contains my solutions to LeetCode problems.
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -611,6 +614,7 @@ This repository contains my solutions to LeetCode problems.
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1036-rotting-oranges) |
