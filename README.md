@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
@@ -233,6 +234,7 @@ This repository contains my solutions to LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
