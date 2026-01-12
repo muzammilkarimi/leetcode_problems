@@ -230,6 +230,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -349,6 +350,7 @@ This repository contains my solutions to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
