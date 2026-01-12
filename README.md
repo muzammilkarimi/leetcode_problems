@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems.
 | [0238-product-of-array-except-self](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0494-target-sum) |
@@ -239,6 +240,7 @@ This repository contains my solutions to LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
@@ -625,6 +627,7 @@ This repository contains my solutions to LeetCode problems.
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
