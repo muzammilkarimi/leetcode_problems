@@ -124,6 +124,7 @@ This repository contains my solutions to LeetCode problems.
 | [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2742-painting-the-walls](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2742-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -263,6 +264,7 @@ This repository contains my solutions to LeetCode problems.
 | [2262-solving-questions-with-brainpower](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2742-painting-the-walls](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2742-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
