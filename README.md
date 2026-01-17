@@ -233,6 +233,7 @@ This repository contains my solutions to LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -356,6 +357,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0038-count-and-say) |
@@ -398,6 +400,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
