@@ -128,6 +128,7 @@ This repository contains my solutions to LeetCode problems.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -315,6 +316,7 @@ This repository contains my solutions to LeetCode problems.
 | [2649-count-total-number-of-colored-cells](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -943,6 +945,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
