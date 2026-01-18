@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
@@ -178,6 +179,7 @@ This repository contains my solutions to LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -242,6 +244,7 @@ This repository contains my solutions to LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0322-coin-change) |
@@ -365,6 +368,7 @@ This repository contains my solutions to LeetCode problems.
 | [0072-edit-distance](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
@@ -830,11 +834,13 @@ This repository contains my solutions to LeetCode problems.
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
