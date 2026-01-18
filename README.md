@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1813-maximum-erasure-value) |
+| [1895-largest-magic-square](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -342,6 +343,7 @@ This repository contains my solutions to LeetCode problems.
 | [1370-count-number-of-nice-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1895-largest-magic-square](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -463,6 +465,7 @@ This repository contains my solutions to LeetCode problems.
 | [0994-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2625-increment-submatrices-by-one) |
