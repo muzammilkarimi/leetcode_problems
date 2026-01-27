@@ -1,17 +1,18 @@
 class Solution {
 public:
-    int ans=0;
     int findTargetSumWays(vector<int>& nums, int target) {
-        solve(nums,0,0,target);
-        return ans;
-    }
-    void solve(vector<int>&nums, int idx,int sum, int tar){
-        if(idx==nums.size()){
-            if(sum==tar) ans++;
+        int sum = 0;
+        for(int n:nums) sum+=n;
+        if(sum<abs(target) or (sum+target)%2!=0) return 0;
+        int p = (sum+target)/2;
+
+        vector<int> dp(p+1,0);
+        dp[0]=1;
+        for(int n:nums){
+            for(int i=p; i>=n; i--){
+                dp[i]+=dp[i-n];
+            }
         }
-        else {
-            solve(nums,idx+1,sum+nums[idx],tar);
-            solve(nums,idx+1,sum-nums[idx],tar);
-        }
+        return dp[p];
     }
 };
