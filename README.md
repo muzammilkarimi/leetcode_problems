@@ -143,6 +143,7 @@ This repository contains my solutions to LeetCode problems.
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3379-transformed-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3430-count-days-without-meetings) |
@@ -449,6 +450,7 @@ This repository contains my solutions to LeetCode problems.
 | [2288-count-operations-to-obtain-zero](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
