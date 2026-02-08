@@ -12,7 +12,7 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        return solve(root) != -1;
+        return solve(root)!=-1;
     }
     int solve(TreeNode* root){
         if(!root) return 0;
@@ -21,6 +21,6 @@ public:
         int right = solve(root->right);
         if(right == -1) return -1;
         if(abs(left-right)>1) return -1;
-        return 1+max(left,right);
+        return 1+max(left,right); 
     }
 };
