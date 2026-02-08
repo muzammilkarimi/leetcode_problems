@@ -621,6 +621,7 @@ This repository contains my solutions to LeetCode problems.
 | [0098-validate-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -861,6 +862,7 @@ This repository contains my solutions to LeetCode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -883,6 +885,7 @@ This repository contains my solutions to LeetCode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
