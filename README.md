@@ -236,6 +236,7 @@ This repository contains my solutions to LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -362,6 +363,7 @@ This repository contains my solutions to LeetCode problems.
 | [3618-find-the-original-typed-string-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
@@ -408,6 +410,7 @@ This repository contains my solutions to LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
