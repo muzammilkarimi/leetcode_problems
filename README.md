@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems.
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0494-target-sum) |
@@ -192,6 +193,7 @@ This repository contains my solutions to LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
@@ -526,6 +528,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
 |  |
@@ -557,6 +560,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -690,6 +694,7 @@ This repository contains my solutions to LeetCode problems.
 | [0217-contains-duplicate](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -719,6 +724,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-two-best-non-overlapping-events](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -983,4 +989,12 @@ This repository contains my solutions to LeetCode problems.
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
