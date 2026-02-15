@@ -293,6 +293,7 @@ This repository contains my solutions to LeetCode problems.
 | [0002-add-two-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
@@ -374,6 +375,7 @@ This repository contains my solutions to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -448,6 +450,7 @@ This repository contains my solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1642-water-bottles) |
@@ -570,6 +573,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
