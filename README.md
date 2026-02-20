@@ -388,6 +388,7 @@ This repository contains my solutions to LeetCode problems.
 | [0392-is-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -532,6 +533,7 @@ This repository contains my solutions to LeetCode problems.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0761-special-binary-string) |
 | [2280-count-good-triplets-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
 |  |
@@ -701,6 +703,7 @@ This repository contains my solutions to LeetCode problems.
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
