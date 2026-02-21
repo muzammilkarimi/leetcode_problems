@@ -305,6 +305,7 @@ This repository contains my solutions to LeetCode problems.
 | [0368-largest-divisible-subset](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0382-linked-list-random-node) |
 | [0679-24-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0867-new-21-game) |
@@ -587,6 +588,7 @@ This repository contains my solutions to LeetCode problems.
 | [0231-power-of-two](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
