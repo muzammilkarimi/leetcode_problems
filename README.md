@@ -321,6 +321,7 @@ This repository contains my solutions to LeetCode problems.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2050-count-good-numbers) |
@@ -463,6 +464,7 @@ This repository contains my solutions to LeetCode problems.
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -596,6 +598,7 @@ This repository contains my solutions to LeetCode problems.
 | [1018-binary-prefix-divisible-by-5](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
