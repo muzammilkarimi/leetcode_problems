@@ -402,6 +402,7 @@ This repository contains my solutions to LeetCode problems.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
