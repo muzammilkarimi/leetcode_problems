@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems.
 | [1656-count-good-triplets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1895-largest-magic-square](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1895-largest-magic-square) |
+| [1980-find-unique-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -214,6 +215,7 @@ This repository contains my solutions to LeetCode problems.
 | [1500-count-largest-group](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -404,6 +406,7 @@ This repository contains my solutions to LeetCode problems.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1980-find-unique-binary-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -822,6 +825,7 @@ This repository contains my solutions to LeetCode problems.
 | [0090-subsets-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0679-24-game) |
+| [1980-find-unique-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
