@@ -326,6 +326,7 @@ This repository contains my solutions to LeetCode problems.
 | [1448-maximum-69-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -882,6 +883,7 @@ This repository contains my solutions to LeetCode problems.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -1014,6 +1016,7 @@ This repository contains my solutions to LeetCode problems.
 | [0295-find-median-from-data-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0981-time-based-key-value-store) |
+| [1622-fancy-sequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1622-fancy-sequence) |
 ## Data Stream
 |  |
 | ------- |
