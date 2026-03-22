@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode problems.
 | [1656-count-good-triplets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -512,6 +513,7 @@ This repository contains my solutions to LeetCode problems.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
