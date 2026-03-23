@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -276,6 +277,7 @@ This repository contains my solutions to LeetCode problems.
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -511,6 +513,7 @@ This repository contains my solutions to LeetCode problems.
 | [0994-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
