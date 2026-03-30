@@ -234,6 +234,7 @@ This repository contains my solutions to LeetCode problems.
 | [2626-count-the-number-of-good-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -432,6 +433,7 @@ This repository contains my solutions to LeetCode problems.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3194-find-words-containing-character) |
@@ -767,6 +769,7 @@ This repository contains my solutions to LeetCode problems.
 | [2681-put-marbles-in-bags](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3321-type-of-triangle) |
