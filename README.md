@@ -138,6 +138,7 @@ This repository contains my solutions to LeetCode problems.
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2742-painting-the-walls](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2742-painting-the-walls) |
+| [2751-robot-collisions](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2751-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -498,6 +499,7 @@ This repository contains my solutions to LeetCode problems.
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
+| [2751-robot-collisions](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -770,6 +772,7 @@ This repository contains my solutions to LeetCode problems.
 | [2681-put-marbles-in-bags](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2751-robot-collisions](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -808,6 +811,7 @@ This repository contains my solutions to LeetCode problems.
 | [0225-implement-stack-using-queues](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [2751-robot-collisions](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2751-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
