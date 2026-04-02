@@ -263,6 +263,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -405,6 +406,7 @@ This repository contains my solutions to LeetCode problems.
 | [0067-add-binary](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
