@@ -430,6 +430,7 @@ This repository contains my solutions to LeetCode problems.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -499,6 +500,7 @@ This repository contains my solutions to LeetCode problems.
 | [1642-water-bottles](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/muzammilkarimi/leetcode_problems/tree/master/2288-count-operations-to-obtain-zero) |
