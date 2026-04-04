@@ -166,6 +166,7 @@ This repository contains my solutions to LeetCode problems.
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3583-count-special-triplets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -538,6 +539,7 @@ This repository contains my solutions to LeetCode problems.
 | [3227-find-missing-and-repeated-values](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -786,6 +788,7 @@ This repository contains my solutions to LeetCode problems.
 | [3321-type-of-triangle](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3647-zero-array-transformation-iii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
