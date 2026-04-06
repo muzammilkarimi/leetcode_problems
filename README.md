@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [0792-binary-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -217,6 +218,7 @@ This repository contains my solutions to LeetCode problems.
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0940-fruit-into-baskets) |
@@ -501,6 +503,7 @@ This repository contains my solutions to LeetCode problems.
 | [0067-add-binary](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
