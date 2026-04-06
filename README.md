@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [0792-binary-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
+| [0875-koko-eating-bananas](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0940-fruit-into-baskets) |
@@ -605,6 +606,7 @@ This repository contains my solutions to LeetCode problems.
 | [0287-find-the-duplicate-number](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0981-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/muzammilkarimi/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
