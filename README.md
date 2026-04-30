@@ -187,6 +187,7 @@ This repository contains my solutions to LeetCode problems.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -318,6 +319,7 @@ This repository contains my solutions to LeetCode problems.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -554,6 +556,7 @@ This repository contains my solutions to LeetCode problems.
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
