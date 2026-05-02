@@ -289,6 +289,7 @@ This repository contains my solutions to LeetCode problems.
 | [0416-partition-equal-subset-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
@@ -339,6 +340,7 @@ This repository contains my solutions to LeetCode problems.
 | [0396-rotate-function](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0867-new-21-game) |
