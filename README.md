@@ -435,6 +435,7 @@ This repository contains my solutions to LeetCode problems.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0981-time-based-key-value-store](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0981-time-based-key-value-store) |
@@ -1108,5 +1109,6 @@ This repository contains my solutions to LeetCode problems.
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/muzammilkarimi/leetcode_problems/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
