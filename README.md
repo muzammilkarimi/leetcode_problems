@@ -483,6 +483,7 @@ This repository contains my solutions to LeetCode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -1031,6 +1032,7 @@ This repository contains my solutions to LeetCode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/muzammilkarimi/leetcode_problems/tree/master/0138-copy-list-with-random-pointer) |
